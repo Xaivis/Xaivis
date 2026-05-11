@@ -1,8 +1,11 @@
-
+<img align="right" alt="" height="300px" src="https://github.com/Xaivis/Xaivis/blob/main/Gemini_Generated_Image_rxpoa4rxpoa4rxpo.png">
 # About Me
 
-My name is Ivis, and I have been working in the programming field since 2024. This profile is for a Project from [BootCamp - Aponti](https://moodle.aponti.org.br/mod/hvp/view.php?id=9322). I'm so glad to be working on this Project.
+<p align="left">My name is Ivis, and I have been working in the programming field since 2024. This profile is for a Project from [BootCamp - Aponti](https://moodle.aponti.org.br). I'm so glad to be working on this Project. The main language is this BootCamp was Python, but I also studied JavaScript, git and github, database, software testing.
 
+#
+#
+#
 
 ## Badges
 
@@ -13,13 +16,15 @@ These are my badges:
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Xaivis)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5581998026735)
 
-Source: [shields.io](https://shields.io/)
 
+## Hard Skills
+- Languages
 
+[![My Skills](https://skillicons.dev/icons?i=java,py,js,html,css)](https://skillicons.dev)
 
-## Hard Skills 
+- Frameworks, Databases, SO, Tools
 
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) 
+  
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000?style=for-the-badge&logo=postgresql)
@@ -43,3 +48,8 @@ Source: [shields.io](https://shields.io/)
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Xaivis/Xaivis/output/github-contribution-grid-snake-dark.svg">
   <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Xaivis/Xaivis/output/github-contribution-grid-snake.svg">
 </picture>
+
+## Sources
+
+- [skillicons](https://skillicons.dev) - Languages
+- [shields](https://shields.io) - Frameworks, Databases, SO, Tools

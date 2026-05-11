@@ -1,10 +1,8 @@
-<img align="right" alt="" height="300px" src="https://github.com/Xaivis/Xaivis/blob/main/Gemini_Generated_Image_rxpoa4rxpoa4rxpo.png">
+<img align="right" alt="" height="300px" src="https://github.com/Xaivis/Xaivis/blob/main/geminiGenerator450.png">
 # About Me
 
-<p align="left">My name is Ivis, and I have been working in the programming field since 2024. This profile is for a Project from [BootCamp - Aponti](https://moodle.aponti.org.br). I'm so glad to be working on this Project. The main language is this BootCamp was Python, but I also studied JavaScript, git and github, database, software testing.
+<p align="left">Hello World!!! My name is Ivis, and I have been working in the programming field since 2024. This is my profile is and starts in a Project from [BootCamp - Aponti](https://moodle.aponti.org.br). I'm so glad to be working on this Project. The main language is this BootCamp was Python, but I also studied JavaScript, git and github, database, software testing. However, my primary programming language is Java, but it's always good to be learning new skills.
 
-#
-#
 #
 
 ## Badges
